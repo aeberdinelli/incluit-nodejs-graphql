@@ -24,7 +24,7 @@ Acá traté de ordenar los ejemplos y la documentación de cada clase.
 - **📚 Apuntes**: [Clase 4.pdf](https://github.com/aeberdinelli/incluit-nodejs-graphql/raw/master/clase-4/Clase%204%20-%20NodeJS%20and%20GraphQL%20-%20IncluIT.pdf)
 
 ### Clase 5
-- **👨🏼‍🏫 Temas**:All together now. Todo GraphQL + Integración en el front
+- **👨🏼‍🏫 Temas**: All together now. Todo GraphQL + Integración en el front
 - **🛠 Ejemplos**: [Ver repo](https://github.com/aeberdinelli/incluit-nodejs-graphql/tree/master/clase-5)
 - **📚 Apuntes**: [Clase 5.pdf](https://github.com/aeberdinelli/incluit-nodejs-graphql/raw/master/clase-1/Clase%205%20-%20NodeJS%20and%20GraphQL%20-%20IncluIT.pdf)
 
