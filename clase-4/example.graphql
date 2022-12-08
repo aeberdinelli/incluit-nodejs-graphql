@@ -1,0 +1,23 @@
+type Query {
+    ListProducts: [Product]
+    GetProduct(id: String!): Product
+}
+
+type Mutation {
+    CreateProduct(body: ProductRequest!): Product
+    UpdateProduct(id: Int!, body: ProductRequest!): Product
+}
+
+# This is the input data for a product
+# Here we don't know the id it will get so we don't include it
+type ProductRequest {
+    title: String!
+    price: Float!
+}
+
+# This is the product response, since we now know the id we add it
+type Product {
+    title: String!
+    price: Float!
+    id: Int!
+}

@@ -1,0 +1,4 @@
+node_modules
+clase-4/node_modules
+clase-5/**/node_modules
+.DS_Store

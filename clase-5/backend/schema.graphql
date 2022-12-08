@@ -1,0 +1,28 @@
+union Result = Product|Items|People
+
+type Query {
+    ListProducts: [Product]
+    GetProduct(id: Int!): Product
+    Search(search: String): [Result]
+}
+
+type Mutation {
+    CreateProduct(name: String, price: Float): Product
+    RemoveProduct(id: Int!): [Product]
+}
+
+type People {
+    name: String!
+    email: String
+}
+
+type Items {
+    name: String!
+    stock: Int!
+}
+
+type Product {
+    name: String!
+    price: Float
+    id: Int!
+}
