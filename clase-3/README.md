@@ -3,4 +3,4 @@
 
 <br>
 
-[⬇️ Descargar PDF](https://github.com/aeberdinelli/incluit-nodejs-graphql/raw/master/clase-3/Clase%203%20-%20NodeJS%20and%20GraphQL%20-%20IncluIT.pdf)
+[⬇️ Descargar PDF](https://github.com/aeberdinelli/incluit-nodejs-graphql/raw/master/clase-3/clase3.pdf)
